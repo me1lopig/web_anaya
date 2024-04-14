@@ -1,0 +1,27 @@
+/* archivo css*/
+/* primer ejemplo */
+
+@charset "utf-8";
+
+
+#cabeceraweb{
+    /* Etiquetas de cabecera */
+    background-color: blueviolet;   
+}
+
+#navegacionprincipal{
+    /* barra de navegación principal*/
+    background-color: aqua;
+}
+
+#barralateral{
+    background-color: brown;
+}
+
+#contenidoprincipal{
+    background-color: goldenrod;
+}
+
+#pieprincipal{
+    background-color: darkcyan;
+}
